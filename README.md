@@ -1,5 +1,5 @@
 # Coursera
-# IBM Data Analyst Proffesional Certificate
+# IBM Data Analyst Professional Certificate
 
 
 This repository is created to showcase the projects completed during my learning with Coursera IBM **Data Analyst** Professional Certificate.
