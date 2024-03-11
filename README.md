@@ -6,7 +6,7 @@ This repository is created to showcase the projects completed during my learning
 
 The files uploaded contains data on the multiple assignments completed during all Modules.
 
-To understand the contents of the repository, knowledge on the following is required
+To understand the contents of the repository knowledge on the following is required
 *  _Concepts of Data Analysis_
 *  _Excel_
 *  _Google Looker Studio_
